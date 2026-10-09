@@ -1,0 +1,3 @@
+# OpenCC-Env 运行与构建依赖
+PySide6==6.12.0
+pyinstaller==6.22.3

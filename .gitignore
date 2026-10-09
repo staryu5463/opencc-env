@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+
+# PyInstaller & Build
+build/
+dist/
+*.spec
+
+# OpenCC-Env 用户快照与敏感缓存
+.opencc_env_snapshot.json
+~/.opencc_env_snapshot.json
+*.snapshot.json
+verification/
+artifacts/
+release/
+reports/
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+interface.json
+
+# IDE
+.vscode/
+.idea/
+*.swp
